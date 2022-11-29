@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(backImg.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    z-index: -2;
+}
+
+.imgcontainer{
+    position: absolute;
+    top: 5%;
+    right: 40%;
+    background: none;
+}
+label{
+    background: none;
+}
+
+
+
+
+.username{
+    top: 40%;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: lightgreen;
+    text-decoration:none ;
+    background: none;
+}
+
+
+
+.Password{
+    margin-top: 20px;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: lightgreen;
+    background: none;
+}
+
+.button{
+    margin-top: 10px;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: lightgreen;  
+    background: none; 
+}
+label{
+    background: none;
+}
+
+b{
+    background: none;
+}
+
+input{
+    background: none;
+    border: 1px solid white;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+.rem{
+    font-size: 20px;
+    background: none;
+}
+

@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(backImg.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.imgcontainer{
+    position: absolute;
+    top: 5%;
+    right: 40%;
+    background: none;
+}
+label{
+    background: none;
+}
+img{
+    height: 180px;
+    width: auto;
+}
+.container{
+    position: absolute;
+    top: 40%;
+    right: 45%;
+    padding: 30px;
+    background: none;
+}
+
+
+.username{
+    padding: 20px;
+    width: 150px;
+    height: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: #fff;
+    text-decoration:none ;
+    background: none;
+}
+
+
+
+.Password{
+    margin-top: 30px;
+    padding: 20px;
+    width: 100px;
+    height: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: aliceblue;
+    background: none;
+}
+
+.button{
+    margin-top: 10px;
+    padding: 20px;
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: aliceblue;  
+    background: none; 
+}
+label{
+    background: none;
+}
+
+b{
+    background: none;
+}
+
+input{
+    background: none;
+    border: 1px solid #fff;
+    padding: 10px;
+    width: 300px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.rem{
+    font-size: 20px;
+    background: none;
+}
+
